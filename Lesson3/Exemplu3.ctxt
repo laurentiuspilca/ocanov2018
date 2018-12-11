@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Exemplu3
+comment0.text=\r\n\ byte,\ short,\ int,\ long\ \ 0\ \r\n\ float,\ double\ \ 0.0\r\n\ char\ '\u0000'\r\n\ boolean\ false\r\n\ object\ null\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
