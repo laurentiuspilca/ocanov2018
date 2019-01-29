@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Coffee
-comment1.params=
-comment1.target=Coffee()
-comment2.params=qty
-comment2.target=Coffee(double)
-comment3.params=q
-comment3.target=void\ drink(double)
-numComments=4
